@@ -1,4 +1,6 @@
-### Hi there 👋
+### hello gamers
+
+![](https://img.shields.io/badge/Based-Very-9080c2)
 
 <!--
 **Lyn1dev/Lyn1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
