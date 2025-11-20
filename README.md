@@ -1,6 +1,6 @@
 github is a version control software, not a social media platform.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn1dev&layout=pie&theme=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn1dev&layout=compact&theme=github_dark_dimmed&hide_progress=true)
 <!--
 **Lyn1dev/Lyn1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
