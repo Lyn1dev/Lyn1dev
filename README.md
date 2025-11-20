@@ -1,7 +1,6 @@
-### hello gamers
+github is a version control software, not a social media platform.
 
-![](https://img.shields.io/badge/Based-Very-9080c2)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn1dev&layout=donut-vertical&theme=transparent)]
 <!--
 **Lyn1dev/Lyn1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
