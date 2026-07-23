@@ -1,4 +1,5 @@
 github is not a social media platform
+discord: lyn1
 
 <!--
 **Lyn1dev/Lyn1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
