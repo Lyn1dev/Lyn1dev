@@ -1,6 +1,6 @@
 github is not a social media platform
-- discord: lyn1
 - https://discord.gg/mqywV7sP3x 
+<img src="https://github-widgets.netlify.app/api/v1/user-stats.svg?userName=lyn1dev&showIssues=false&showContributedTo=false&theme=monochrome" alt="User Stats" />
 <!--
 **Lyn1dev/Lyn1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
